@@ -1,0 +1,57 @@
+
+ 
+ !DOCTYPE html>
+ <html lang="es">
+ <head>
+ <meta name= viewport content= vwidth=device.width, initial-scale=1.0 > 
+ <title>Rincon del set</title>
+ <link rel="stylesheet" href="styles.css">
+ <style>
+     body {background-color: black;}
+     h1   {color: blue;}
+     h2 {color:turquoise}
+     p    {color: white;}
+     h1 {
+   color: blue;
+   font-family: verdana;
+   font-size: 300%;
+ }
+ p {
+   color: white;
+   font-family: courier;
+   font-size: 160%;
+   padding: 20px;
+ }
+ }
+     </style>
+ </head>
+ 
+ <body>
+ <nav> Menú </nav>
+   <main> 
+       <div>
+         <section>
+             <articule>
+             <h1>Franquicias de Peliculas</h1>
+             <h2> Star Wars </h2>
+             <p>Star Wars es una de las franquicias más importantes en el mundo del cine.</p>
+             <img src= Star Wars_Logo img/>
+             <p> Esta franquicia revoluciono el mundo de la ciencia ficción </p>
+             </articule>
+       </div>
+       <div>
+               <articule>
+             <h2> UCM </h2>
+             <p> El universo cinematografico de marvel consta de 20 peliculas basadas en historias de superheroes. </p>
+             </articule>
+       </div>	
+         </section>
+     </main>
+ 
+ <footer>
+ <p> EROS GIOVANNI ANAYA GÓMEZ
+     4F T/M EXPRESIÓN EN INTERNET </p>
+     <a href="https://www.instagram.com/eros9__gomez/?hl=es-la">eros9_anaya-inst</a>
+ </footer>
+ </body>
+ </html>
